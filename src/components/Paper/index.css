@@ -1,0 +1,17 @@
+.paper {
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    width: 90%;
+    max-width: 1500px;
+    /* border: 1px solid rgba(0,0,0,0.5); */
+    border-radius: 5px;
+    box-sizing: border-box;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    margin: 20px auto;
+}
+
+/* .paper>div{
+    width: 100%;
+} */
